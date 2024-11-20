@@ -13,4 +13,3 @@ price_2 = float(line_2[2])
 total = (quantidade_1 * price_1) + (quantidade_2 * price_2)
 
 print('VALOR A PAGAR: R$ {:.2f}'.format(total))
- 
